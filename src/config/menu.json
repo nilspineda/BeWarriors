@@ -5,14 +5,10 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "sobre nosotros",
+      "url": "/sobre-nosotros"
     },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
+        {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
@@ -38,12 +34,16 @@
           "url": "/privacy-policy"
         }
       ]
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
     }
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "sobre nosotros",
+      "url": "/sobre-nosotros"
     },
     {
       "name": "Contact",
