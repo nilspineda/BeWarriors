@@ -1,10 +1,10 @@
 ---
-title: "Karolayn es Fuerte"
+title: "Post 1"
 description: "meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/posts/01.jpg"
+date: 2023-04-04T05:00:00Z
+image: "/images/posts/post-01.jpg"
 categories: ["artes"]
-authors: ["Mark Dinn"]
+authors: ["Karolayn-Ariza"]
 tags: ["diy", "toy"]
 draft: false
 ---

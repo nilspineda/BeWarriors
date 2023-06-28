@@ -1,6 +1,6 @@
 ---
-title: John Doe
-image: /images/authors/john-doe.jpg
+title: Karolayn Ariza
+image: /images/authors/karolayn-ariza.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
