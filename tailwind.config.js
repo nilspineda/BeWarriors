@@ -48,6 +48,8 @@ module.exports = {
         border: theme.colors.default.theme_color.border,
         "theme-light": theme.colors.default.theme_color.theme_light,
         "theme-dark": theme.colors.default.theme_color.theme_dark,
+        azul: '#070953',
+        rosado: '#f15a59'
       },
       fontSize: {
         base: font_base + "px",
