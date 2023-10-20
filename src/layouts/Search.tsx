@@ -67,9 +67,9 @@ export default function SearchBar({ searchList }: Props) {
 
   return (
     <div className="min-h-[45vh]">
-      <input
+      `<input
         className="form-input w-full text-center"
-        placeholder="Type here to Search posts"
+        placeholder="Escribe aquí para buscar"
         type="text"
         name="search"
         value={inputVal}
@@ -77,7 +77,7 @@ export default function SearchBar({ searchList }: Props) {
         autoComplete="off"
         autoFocus
         ref={inputRef}
-      />
+      />`
 
       {inputVal.length > 1 && (
         <div className="my-6 text-center">

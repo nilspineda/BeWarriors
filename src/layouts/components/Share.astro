@@ -2,6 +2,7 @@
 import config from "@config/config.json";
 import {
   IoLogoFacebook,
+  IoLogoInstagram,
   IoLogoLinkedin,
   IoLogoPinterest,
   IoLogoTwitter,
@@ -11,8 +12,8 @@ const { base_url } = config.site;
 const { title, description, slug, className } = Astro.props;
 ---
 
-<ul class={`${className}`}>
-  <li class="inline-block">
+<ul class={`${className} text-rosado`} >
+  <li class="inline-block ">
     <a
       aria-label="facebook share button"
       href={`https://facebook.com/sharer/sharer.php?u=${base_url}/${slug}`}
@@ -49,7 +50,7 @@ const { title, description, slug, className } = Astro.props;
       target="_blank"
       rel="noreferrer noopener"
     >
-      <IoLogoPinterest />
+      <IoLogoInstagram />
     </a>
   </li>
 </ul>

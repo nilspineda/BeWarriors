@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
@@ -14,16 +14,16 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "Autores",
+          "url": "/autores"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Categorias",
+          "url": "/categorias"
         },
         {
-          "name": "Tags",
-          "url": "/tags"
+          "name": "Etiquetas",
+          "url": "/etiquetas"
         },
         {
           "name": "Elements",
@@ -36,8 +36,8 @@
       ]
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Contacto",
+      "url": "/contacto"
     }
   ],
   "footer": [
